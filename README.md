@@ -2,3 +2,6 @@
 
 
 - slides for basic js testing session
+
+
+- slide starts from [00.md](./00.md)
